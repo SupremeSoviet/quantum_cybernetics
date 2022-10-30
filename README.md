@@ -5,4 +5,5 @@
 и сайтов компаний-разработчиков
 
 ## Доступный интерфейс
-https://quantum-cybernetics.anvil.app
+<a href="https://quantum-cybernetics.anvil.app/" target="_blank"><img src="https://github.com/SupremeSoviet/quantum_cybernetics/blob/main/quantum-cybernetics.png" width="200" height="200" border="10" alt="QR Screencast"/></a> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
